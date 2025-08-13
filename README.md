@@ -65,6 +65,40 @@ An independent, well-organized collection of Ethereum tools and educational cont
 
 ---
 
+### Network Configuration & Explorers
+
+- **Chainlist (Add Network by ID)**  
+  Use to quickly configure your wallet with network **Chain ID 300**.  
+  https://chainlist.org/chain/300
+
+- **zkSync Sepolia Explorer**  
+  A block explorer tailored for Sepolia on the zkSync network.  
+  https://sepolia.explorer.zksync.io/
+
+- **zkSync Bridge Portal**  
+  Connect and transfer assets across chains using zkSync's interface.  
+  https://portal.zksync.io/bridge/
+
+---
+
+## Recommended Reading
+
+- **_Crypto: How the Code Rebels Beat the Government — Saving Privacy in the Digital Age_** by Steven Levy  
+  Available to read via Internet Archive:  
+  https://archive.org/details/crypto-how-the-code-rebels-beat-the-government-saving-privacy-in-the-digital-age/mode/2up
+
+---
+
+## Video Resources
+
+[![Watch Video 1](https://img.youtube.com/vi/YGtYJyTUsn0/0.jpg)](https://youtu.be/YGtYJyTUsn0?si=aFiHRcezCfGh_i49)  
+[![Watch Video 2](https://img.youtube.com/vi/Yjrfm_oRO0w/0.jpg)](https://youtu.be/Yjrfm_oRO0w?si=o0Pm8fvrqoiQ25ay)  
+[![Watch Video 3](https://img.youtube.com/vi/DLjzI5dX8jc/0.jpg)](https://youtu.be/DLjzI5dX8jc?si=fvonesKpTLPqDSGe)  
+[![Watch Video 4](https://img.youtube.com/vi/s22eJ1eVLTU/0.jpg)](https://youtu.be/s22eJ1eVLTU?si=uXSSWdbogekE4A_X)
+
+
+
+
 ## Contributions
 
 Have a useful Web3 or Ethereum resource to suggest?
